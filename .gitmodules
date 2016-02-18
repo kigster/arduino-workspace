@@ -1,0 +1,24 @@
+[submodule "libraries/Adafruit_BMP280"]
+	path = libraries/Adafruit_BMP280
+	url = git@github.com:adafruit/Adafruit_BMP280_Library.git
+[submodule "libraries/DHT"]
+	path = libraries/DHT
+	url = git@github.com:adafruit/DHT-sensor-library.git
+[submodule "libraries/Adafruit_NeoPixel"]
+	path = libraries/Adafruit_NeoPixel
+	url = git@github.com:adafruit/Adafruit_NeoPixel.git
+[submodule "libraries/Adafruit_GFX"]
+	path = libraries/Adafruit_GFX
+	url = git@github.com:adafruit/Adafruit-GFX-Library.git
+[submodule "libraries/Adafruit_LEDBackpack"]
+	path = libraries/Adafruit_LEDBackpack
+	url = git@github.com:adafruit/Adafruit_LED_Backpack.git
+[submodule "repos/librgb"]
+	path = repos/librgb
+	url = git@github.com:kigster/librgb.git
+[submodule "libraries/OneButton"]
+	path = libraries/OneButton
+	url = https://github.com/kigster/OneButton
+[submodule "repos/kiguino"]
+	path = repos/kiguino
+	url = git@github.com:kigster/kiguino.git
