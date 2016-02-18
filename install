@@ -2,4 +2,5 @@
 set -x
 git submodule init && git submodule update
 find repos/kiguino/arduino/libraries -depth 1 -type d -exec ln -nfs ../{} libraries/ \;
-
+ln -nfs repos/SmartMatrix/src libraries/SmartMatrix
+ln -nfs repos/librgb/librgb libraries
