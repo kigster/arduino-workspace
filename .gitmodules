@@ -22,3 +22,36 @@
 [submodule "repos/kiguino"]
 	path = repos/kiguino
 	url = git@github.com:kigster/kiguino.git
+[submodule "libraries/RF24"]
+	path = libraries/RF24
+	url = git@github.com:TMRh20/RF24.git
+[submodule "libraries/SimpleTimer"]
+	path = libraries/SimpleTimer
+	url = https://github.com/jfturcot/SimpleTimer.git
+[submodule "libraries/DS1307RTC"]
+	path = libraries/DS1307RTC
+	url = https://github.com/PaulStoffregen/DS1307RTC.git
+[submodule "repos/SmartMatrix"]
+	path = repos/SmartMatrix
+	url = git@github.com:pixelmatix/SmartMatrix.git
+[submodule "libraries/FastLED"]
+	path = libraries/FastLED
+	url = git@github.com:FastLED/FastLED.git
+[submodule "libraries/BackSeatDriver"]
+	path = libraries/BackSeatDriver
+	url = git@github.com:kigster/BackSeatDriver.git
+[submodule "libraries/EEPROMex"]
+	path = libraries/EEPROMex
+	url = https://github.com/thijse/Arduino-EEPROMEx.git
+[submodule "libraries/QueueArray"]
+	path = libraries/QueueArray
+	url = https://github.com/interactive-matter/QueueArray
+[submodule "repos/aurora"]
+	path = repos/aurora
+	url = git@github.com:pixelmatix/aurora.git
+[submodule "libraries/Time"]
+	path = libraries/Time
+	url = https://github.com/PaulStoffregen/Time.git
+[submodule "libraries/aJson"]
+	path = libraries/aJson
+	url = git@github.com:interactive-matter/aJson.git
